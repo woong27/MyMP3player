@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mymp3PlayerDB</string>
+    <string name="drawer_opend">Drawer Open</string>
+    <string name="drawer_closed">Drawer Close</string>
+</resources>
